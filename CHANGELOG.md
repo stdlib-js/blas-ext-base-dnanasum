@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`7f76495`](https://github.com/stdlib-js/stdlib/commit/7f76495810ffc554f5c8ef36d2458f6dfd1c31f2) - **test:** add tests to `blas/ext/base/dnanasum` [(#3056)](https://github.com/stdlib-js/stdlib/pull/3056) _(by Saurabh Singh, Athan Reines, stdlib-bot)_
 -   [`ea7b344`](https://github.com/stdlib-js/stdlib/commit/ea7b34499a4847bd917e120595a0c677fe8bddb9) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnanasum` [(#2984)](https://github.com/stdlib-js/stdlib/pull/2984) _(by Muhammad Haris, Athan Reines)_
 
@@ -35,10 +36,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 -   Saurabh Singh
 
 </section>
