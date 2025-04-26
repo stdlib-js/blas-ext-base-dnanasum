@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`0feb415`](https://github.com/stdlib-js/stdlib/commit/0feb415ee92e1d3851665ac6729b6ea819f926ff) - **docs:** update `blas/ext/base/dnanasum` to follow current project conventions [(#5172)](https://github.com/stdlib-js/stdlib/pull/5172) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`7f76495`](https://github.com/stdlib-js/stdlib/commit/7f76495810ffc554f5c8ef36d2458f6dfd1c31f2) - **test:** add tests to `blas/ext/base/dnanasum` [(#3056)](https://github.com/stdlib-js/stdlib/pull/3056) _(by Saurabh Singh, Athan Reines, stdlib-bot)_
