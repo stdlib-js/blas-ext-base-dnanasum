@@ -63,7 +63,7 @@ The [_L1_ norm][l1norm] is defined as
 ## Usage
 
 ```javascript
-import dnanasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnanasum@deno/mod.js';
+import dnanasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnanasum@v0.3.1-deno/mod.js';
 ```
 
 #### dnanasum( N, x, strideX )
@@ -163,7 +163,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dnanasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnanasum@deno/mod.js';
+import dnanasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnanasum@v0.3.1-deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.5 ) < 1 ) {
